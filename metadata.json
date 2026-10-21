@@ -1,0 +1,7 @@
+{
+  "name": "Shaik Yasmin — 3D Portfolio & AI Assistant",
+  "description": "3D personal portfolio and AI learning companion for Shaik Yasmin, Computer Science Engineering student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
