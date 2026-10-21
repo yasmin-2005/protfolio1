@@ -40,7 +40,7 @@ export const personalData: PersonalData = {
   email: "shaikmehayas1221@gmail.com",
   phone: "+91 8074754865",
   location: "Thorrur, Mahabubabad, Telangana, 506163",
-  githubUrl: "https://github.com/shaikyasmin",
+  githubUrl: "https://github.com/yasmin-2005",
   linkedinUrl: "https://linkedin.com/in/shaikyasmin",
   portfolioUrl: "https://shaikyasmin.dev",
   resumePdfPath: "/resume/Shaik_Yasmin_Resume.txt",
