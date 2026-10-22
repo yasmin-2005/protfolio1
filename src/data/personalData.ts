@@ -45,5 +45,6 @@ export const personalData: PersonalData = {
   portfolioUrl: "https://shaikyasmin.dev",
   resumePdfPath: "/resume/Shaik_Yasmin_Resume.txt",
   hasCustomResumePdf: true,
-  avatarUrl: "${import.meta.env.BASE_URL}/images/yasmin_portrait.png",
+  avatarUrl: "$
+  {import.meta.env.BASE_URL}/images/yasmin_portrait.png",
 };
